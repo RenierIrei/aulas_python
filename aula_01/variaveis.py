@@ -14,6 +14,8 @@ capitais = {
     "Brasil": "Brasilia",
     "Argentina": "Buenos Aires",
     "Japão": "Tóquio",
-}   # dict  → chave → valor
-cartas_pokemon = {"Pikachu", "Kabigon", "Nyaoha", "Eevy", "Kabigon", "Kamonegi", }  # set   → coleção sem ordem, sem duplicatas
+            }   # dict  → chave → valor
+cartas_pokemon = {
+    "Pikachu", "Kabigon", "Nyaoha", "Eevy", "Kabigon", "Kamonegi",
+                }  # set   → coleção sem ordem, sem duplicatas
 
